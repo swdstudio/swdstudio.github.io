@@ -1,6 +1,10 @@
 # SWD Studio
 SWD Website powered by GitHub
 
+## Who we are?
+An non-profit coding group,dream of use our free and open-source software to change the world
+
+visit our [GitHub](https://github.com/swdstudio "visit") or [Mirror Download Website](http://swd-go.ysepan.com "visit") for more infomation
 ## Our projects:
 |Name|First Publish|Latest version|Latest Publish|
 |:-|:-:|:-:|:-:|
