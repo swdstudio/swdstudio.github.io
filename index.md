@@ -1,4 +1,5 @@
-# SWD Studio
+![logo](https://github.com/swdstudio/swdstudio.github.io/assets/154047962/09fb9095-5a1d-4a60-ba2a-5f7d57b5a03d)
+# 
 SWD Website powered by GitHub
 
 ## Who we are?
